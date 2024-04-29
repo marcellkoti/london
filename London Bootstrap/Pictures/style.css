@@ -1,0 +1,78 @@
+
+
+
+
+
+
+
+
+.bg{
+    
+
+}
+
+header{
+    height: 500px;
+    background-image: url(London1.jpg);
+   position: relative;
+   background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+   
+
+
+    
+}
+header nav{
+    position: absolute;
+    bottom:0;
+}
+
+body{
+    
+}
+
+.navbar-brand{
+    color:green;
+}
+
+
+.london{
+    margin-left: 560px;
+    margin-top:250px;
+    position: absolute;
+    
+}
+
+
+
+.londontxt{
+margin-left:1px;
+border: 2px solid black;
+margin-top: 20px;
+width:700px;
+}
+
+.london1{
+    height:390px;
+    width:290px;
+}
+
+.london2{
+    height:390px;
+    width:290px;
+}
+
+.radius{
+    margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
